@@ -21,6 +21,7 @@
 4. [Project 2: Space Race](junglejump/spacerace)
 
 ## Infinite-Flyer
+- Note that there is some sort of lighting bug with the web export (this is not the case when playing the game in godot)
 1. [Test Scene Oct 16](infinite-flyer/test_scene_10_16/)
 2. [Final Game](infinite-flyer/final/)
 3. [Project 3: Infinite Glider](infinite-flyer/glider_final/)
