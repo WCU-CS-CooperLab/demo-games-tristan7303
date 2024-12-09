@@ -20,6 +20,7 @@
 3. [Final Game](junglejump/jungle_final/)
 4. [Project 2: Space Race](junglejump/spacerace)
 
-## Project 4
-1. [Start Local Server](/paintball/server/)
-2. [Start Client](/paintball/client/)
+## Infinite-Flyer
+1. [Test Scene Oct 16](infinite-flyer/test_scene_10_16/)
+2. [Final Game](infinite-flyer/final/)
+3. [Project 3: Infinite Glider](infinite-flyer/glider_final/)
